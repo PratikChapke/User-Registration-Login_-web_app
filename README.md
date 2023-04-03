@@ -1,5 +1,5 @@
  
- ##  Project video demo :[Users Mana System _edit_2(1).webm](https://user-images.githubusercontent.com/82867372/229520552-93a6a2ac-28df-42fc-98e5-51f33af19232.webm)
+ ##  Project video demo (https://user-images.githubusercontent.com/82867372/229520552-93a6a2ac-28df-42fc-98e5-51f33af19232.webm)
 
 
  
